@@ -1,4 +1,4 @@
-# SentinalScan
+# SentinalScan v1.2
 Web Application Vulnerability Scanner developed by Mike Stiuso
 
 #### Disclaimer 
@@ -13,4 +13,5 @@ Web Application Vulnerability Scanner developed by Mike Stiuso
 - **Checks for Cross Site Scripting Vulnerabilities** By searching for specific patterns in the response text, such as JavaScript event handlers or HTML tags that could be used to inject malicious code, the code can help identify potential XSS vulnerabilities
 - **Checks for Cross Site Request Forgery Vulnerabilities** If CSRF token is found, the code adds the token to a dictionary named csrf_payload and sends a POST request to the specified url with the csrf_payload data.
 
-![image](https://github.com/mikestussy/SentinalScan/assets/112903907/45a2fa86-f83e-42d7-8cfd-5e49d0cf76ce)
+![image](https://github.com/mikestussy/SentinalScan/assets/112903907/6c6e2562-8bf6-4e8f-8c2c-69a8795767b3)
+
